@@ -1,4 +1,4 @@
-#creating dictionary
+# creating dictionary
 # ram={"243":143, 555: 343}
 # print(type(ram))
 # # print(ram)
@@ -21,19 +21,8 @@
 # del key["g"]
 # print(key) #{'govi': '4', 'gov': '3', 'go': 2, ' ': 0, 555: 'hello'}
 #
-key={"govi":'4',"gov":'3',"go":2," ":0,555:"hello","govin":'4',"govj":'3',"goj":2,"15 ":0}
+key = {"govi": '4', "gov": '3', "go": 2, " ": 0, 555: "hello",
+       "govin": '4', "govj": '3', "goj": 2, "15 ": 0}
 
 print(key.clear())
 print(key)
-
-
-
-
-
-
-
-
-
-
-
-
