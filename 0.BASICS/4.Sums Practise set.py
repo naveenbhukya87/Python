@@ -1,23 +1,23 @@
-#Number is positive or negative
+# Number is positive or negative
 # num=int(input("enter the number:"))
 # if num>0:
 #     print("number is positive")
 # else:
 #     print("number is negative")
 
-#largest of two numbers
+# largest of two numbers
 # num1=int(input("enter the number1:"))
 # num2=int(input("enter the number2:"))
 # if num1>num2:
 #     print("num1 is larger")
 # else:
 #     print("num2 is larger")
-####OR#######
+#### OR#######
 # num1=int(input("enter the number1:"))
 # num2=int(input("enter the number2:"))
 # print("num1 is greater") if num1>num2 else print("num2 is greater")
 
-#largest of three numbers
+# largest of three numbers
 # num1=int(input("enter the number1:"))
 # num2=int(input("enter the number2:"))
 # num3=int(input("enter the number3:"))
@@ -29,7 +29,7 @@
 #     print("num3 is larger")
 
 
-#printing week number if week name is given
+# printing week number if week name is given
 # weekname=input("week name is:")
 # if weekname=="sunday":
 #     print("week num is 0")
@@ -47,6 +47,3 @@
 #     print("week num is 6")
 # else:
 #     print("Input is not week name. Please input correct name.")
-
-
-

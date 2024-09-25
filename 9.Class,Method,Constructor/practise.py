@@ -7,8 +7,8 @@ class govi():
     #     return("destroyed")
 
 
-obj1=govi()
-obj2=govi()
+obj1 = govi()
+obj2 = govi()
 print(obj1)
 # print(obj2)
 # del obj1

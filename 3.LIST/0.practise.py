@@ -34,7 +34,7 @@
 # print(liii)
 # print(liiii)
 
-#SLICING
+# SLICING
 # list=["govi","100",100]
 # print(list[0:])
 # print(len(list))
@@ -45,51 +45,51 @@
 # print(sum(list2)) #10
 # print(list2.index(4)) #3
 
-#Traversing
+# Traversing
 # list=[1,2,3,4,5,6,7]
 # for i in list:
 #     print(i,end=", ")
 
-#.append()
+# .append()
 # l=[1,2,3,4]
 # li2=l.append(5)
 # print(l)
 
-#.count()
+# .count()
 # list=[1,1,1,3,3,5,4,9,7,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6]
 # print(list.count(6)) #14
 
-#.extend()
+# .extend()
 # list1=[1,2,3]
 # list2=[4,5,6]
 # list2.extend(list2)
 # print(list2)
 # print(list2[0])
 
-#.insert()
+# .insert()
 # print(list2.index(6))
 # list2.insert(2,20)
 # print(list2)
 # print(list2.index(6))
 
-#.pop()
+# .pop()
 # lis=[23,32,45,54]
 # lis.pop(2)
 # print(lis)
 # print(lis.pop(2))
 # print(lis)
 
-#.remove()
+# .remove()
 # lis=[23,32,45,54]
 # lis.remove(23)
 # print(lis)
 
-#reverse()
+# reverse()
 # lis=[23,32,45,0,54]
 # lis.reverse()
 # print(lis)
 
-#sort
+# sort
 # lis=[23,32,45,0,54]
 # # lis.sort()
 # # print(lis)
@@ -98,10 +98,5 @@
 # print(lis.insert(0,22))
 
 
-lista=list(x for x in range(0,20,2))
+lista = list(x for x in range(0, 20, 2))
 print(lista)
-
-
-
-
-

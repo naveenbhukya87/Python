@@ -16,9 +16,11 @@ a=True
 print(type(a))
 # output 'bool'
 
-"""variable data type can be changed in the same program many times. 
+"""
+variable data type can be changed in the same program many times. 
 This feature is not available in other programming languages
-let's see the example"""
+let's see the example
+"""
 x=100
 print(type(x))
 x=10.8

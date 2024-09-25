@@ -1,4 +1,4 @@
-#DATA TYPE
+# DATA TYPE
 # a,b,c,d,e=1,1.0,2.5,"word 1",'word 2'
 # print(type(a)) #int
 # print(type(b)) #float
@@ -6,7 +6,7 @@
 # print(type(d)) #str
 # print(type(e)) #str
 
-#CONCATENATION
+# CONCATENATION
 # print(10+10)
 # print(10+True)
 # print(10+10.5)
@@ -14,7 +14,7 @@
 # print("abc"+"def")
 # print('abc'+'def')
 
-#INPUT FROM USER
+# INPUT FROM USER
 # name=input("enter the name:")
 # age=int(input("age in words:"))
 # if name=="govind" and age>=18:
@@ -33,7 +33,7 @@
 # print(int(num)+int(num)) #40
 # print(float(num)+int(num)) #40.0
 
-#FORMATTING O/P:
+# FORMATTING O/P:
 """name="govi"
 age=25
 height=5.9
@@ -68,6 +68,3 @@ print("name is {0},age is {1},height {2}".format(name,age,height)) #name is govi
 # a=int(input("a is:"))
 # b=int(input("b is:"))
 # print(a+b)
-
-
-
