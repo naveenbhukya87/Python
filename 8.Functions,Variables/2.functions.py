@@ -1,5 +1,5 @@
-#Function:
-##set of statements or set of instructions to perform a task
+# Function:
+# set of statements or set of instructions to perform a task
 # def govi():   #initialization of function by def(definition)
 #     print("hello")
 # govi() #hello  #invoking or calling a function
@@ -29,7 +29,7 @@
 # govi()    #35x35=1225
 
 
-#Here Global value is not changed because syntax "global x" is not mentioned inside the method
+# Here Global value is not changed because syntax "global x" is not mentioned inside the method
 # x=25
 # def govi():
 #     x=35
@@ -52,16 +52,15 @@
 # loc()
 
 class A:
-    a=10
-    __b=20
+    a = 10
+    __b = 20
+
     def be(self):
-        print(self.a)    #10
-        print(self.__b)  #20
-obj=A()
+        print(self.a)  # 10
+        print(self.__b)  # 20
+
+
+obj = A()
 obj.be()
-print(A.a)      #10
-print(A.__b)    #error
-
-
-
-
+print(A.a)  # 10
+print(A.__b)  # error
